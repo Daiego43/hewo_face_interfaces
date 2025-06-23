@@ -51,7 +51,7 @@ int32 dy
 
 ## 🔧 Usage
 
-These messages are published and subscribed to by the [`hewo_face_pkg`](https://github.com/ThinThought/hewo_face_pkg) nodes.
+These messages are published and subscribed to by the [`hewo_face_pkg`](https://github.com/Daiego43/hewo_face_pkg) nodes.
 They allow external components (like a web interface, controller, or other ROS nodes) to interact with the expressive face of HeWo in real time.
 
 ---
